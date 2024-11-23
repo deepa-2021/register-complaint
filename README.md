@@ -4,7 +4,7 @@ This project is an Online Complaint Registration and Management System built usi
 
 SKILLS AND TECHNOLOGIES USED
 
-•	MongoDB: A NoSQL database used for storing user data, complaints, and other relevant information.
+•	MongoDB: A NoSQL database used for storing user data, complaints, and other relevant information
 
 •	Express: A Node.js web application framework used for building the server, handling routes, and creating APIs.
 
